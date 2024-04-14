@@ -1,4 +1,5 @@
-# TrebleDroid AOSP GSI
+# GenerDroid - An Treble Droid based AOSP GSI
+GeneriDroid is a GSI project that aims at mainly making daily builds of Treble Droid with some additonal Open Source apps and tweaks. Issues should primarily be sent [Here](https://github.com/ponces/treble_aosp/issues/new/choose) as this is just slight tweaks to Treble Droid.
 
 ## Build
 To get started with building AOSP GSI, you'll need to get familiar with [Git and Repo](https://source.android.com/source/using-repo.html) as well as [How to build a GSI](https://github.com/phhusson/treble_experimentations/wiki/How-to-build-a-GSI%3F).
@@ -8,11 +9,11 @@ To get started with building AOSP GSI, you'll need to get familiar with [Git and
     ```
 - Clone this repo:
     ```
-    git clone https://github.com/ponces/treble_aosp -b android-14.0
+    git clone https://github.com/GeneriDroid/generidroid -b android-14.0
     ```
 - Finally, start the build script:
     ```
-    bash treble_aosp/build.sh
+    bash generidroid/build.sh
     ```
 
 ## Issues
@@ -29,3 +30,4 @@ These people have helped this project in some way or another, so they should be 
 - [sooti](https://github.com/sooti)
 - [Iceows](https://github.com/Iceows)
 - [ChonDoit](https://github.com/ChonDoit)
+- [ponces](https://github.com/ponces)
